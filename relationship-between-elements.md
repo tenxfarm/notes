@@ -1,0 +1,3 @@
+# Relationship between elements
+
+To design an Aquaponics system, one has to balance a lot of things. If the water is less, and fish is more, the fish will die due to overcrowding. If the sump is small, the water will overflow. If the Plants are more compared to the fish, then it will lead to nutrient deficiency. If the filtration is less, then the TAN is low, there is more ammonia in the system and fish die. If the pump is too small, not enough water flows and fish and plants die. If the pump is too big, then either something overflows or the system is not in continuous flow or the Nitrite conversion is not proper or the filtration doesn't work. 
