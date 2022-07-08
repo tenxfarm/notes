@@ -1,4 +1,4 @@
-Important:
+hdjdjddhdhdOImportant:
 https://cropking.com/blog/nutrient-film-technique-hobby-greenhouse
 
 
@@ -60,6 +60,6 @@ https://www.genusinnovation.com/blogs/calculate-inverter-battery-back-up-time
 
 https://www.amazon.com/PumpSpy-Primary-Battery-Backup-System/dp/B09231B2XW/ref=sr_1_5?keywords=sump%2Bpump%2Bbattery%2Bbackup&qid=1657308786&sr=8-5&th=1
 
-
+Gotcha. Really
 
 
